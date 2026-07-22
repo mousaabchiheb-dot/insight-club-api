@@ -1,8 +1,0 @@
-name = "insight-club-api"
-main = "index.js"
-compatibility_date = "2026-07-01"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "insight-club-db"
-database_id = "2441e8bd-4ed8-4593-8dd9-6e013ecb8039"
