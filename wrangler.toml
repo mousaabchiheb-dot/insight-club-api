@@ -1,4 +1,4 @@
-name = "insight-club-api"
+name = "insightclub"
 main = "index.js"
 compatibility_date = "2026-07-01"
 
